@@ -30,7 +30,7 @@ Skills: PHP/ Laravel / JS / HTML / CSS/ JAVA
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasiu-Jahan-Labonno&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasiu-Jahan-Labonno&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Wasiu-Jahan-Labonno&show_icons=true&theme=radical)  
 
