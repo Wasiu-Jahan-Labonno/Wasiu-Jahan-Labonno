@@ -21,7 +21,7 @@ Skills: PHP/ Laravel / JS / HTML / CSS/ JAVA
 <a href="https://www.linkedin.com/in/wasiu-jahan-692898259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasiu jahan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/wasiu.jahan.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasiu jahan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/wasiu_jahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasiu jahan" height="30" width="40" /></a>
-<a href="https://dribbble.com/Wasiu_jahan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wasiu jahan" height="30" width="40" /></a>
+<a href="https://dribbble.com/Wasiu_jahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wasiu jahan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
