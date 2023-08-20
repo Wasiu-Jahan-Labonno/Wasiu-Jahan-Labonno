@@ -32,6 +32,6 @@ Skills: PHP/ Laravel / JS / HTML / CSS/ JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasiu-Jahan-Labonno&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Wasiu-Jahan-Labonno)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Wasiu-Jahan-Labonno&show_icons=true&theme=radical)  
 
 
